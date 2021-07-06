@@ -1,0 +1,18 @@
+{
+	"short_name": "Reminder",
+	"name": "Reminder",
+	"display": "standalone",
+	"start_url": "/The/TheLogin.do",
+	"theme_color": "#404549",
+	"background_color": "#34373b",
+	"orientation": "portrait",
+	"manifest_version": "1",
+	"version": "0.1",
+	"icons": [
+		{
+			"src": "img/mic_disabled.png",
+			"sizes": "302x302",
+			"type": "image/png"
+		}
+	]
+}
